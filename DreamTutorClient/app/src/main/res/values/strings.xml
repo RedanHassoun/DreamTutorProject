@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DreamTutor</string>
+    <string name="login_welcome_text">ברוך הבא</string>
+    <string name="login">התחבר</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="username">שם משתמש</string>
+    <string name="password">סיסמה</string>
+    <string name="you_are_not_signed_in">אתה לא מחובר</string>
+</resources>
